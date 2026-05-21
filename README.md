@@ -8,9 +8,9 @@
 
 <div align="center">
  
- 🔭 Currently a full stack MERN developer with an internship at Raybit Technologies.  
+ 🔭 Currently a full stack MERN developer at Codestrix solutions pvt ltd.  
  
- 🌱 Also exploring Java and Spring Boot.
+
 
 </div>
  
